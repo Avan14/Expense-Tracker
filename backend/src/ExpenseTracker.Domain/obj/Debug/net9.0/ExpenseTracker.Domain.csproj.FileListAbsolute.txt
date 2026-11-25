@@ -1,0 +1,12 @@
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\bin\Debug\net9.0\ExpenseTracker.Domain.deps.json
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\bin\Debug\net9.0\ExpenseTracker.Domain.dll
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\bin\Debug\net9.0\ExpenseTracker.Domain.pdb
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\obj\Debug\net9.0\ExpenseTracker.Domain.csproj.AssemblyReference.cache
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\obj\Debug\net9.0\ExpenseTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\obj\Debug\net9.0\ExpenseTracker.Domain.AssemblyInfoInputs.cache
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\obj\Debug\net9.0\ExpenseTracker.Domain.AssemblyInfo.cs
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\obj\Debug\net9.0\ExpenseTracker.Domain.csproj.CoreCompileInputs.cache
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\obj\Debug\net9.0\ExpenseTracker.Domain.dll
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\obj\Debug\net9.0\refint\ExpenseTracker.Domain.dll
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\obj\Debug\net9.0\ExpenseTracker.Domain.pdb
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Domain\obj\Debug\net9.0\ref\ExpenseTracker.Domain.dll

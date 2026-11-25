@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\tests\\ExpenseTracker.UnitTests\\ExpenseTracker.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj",
+        "projectName": "ExpenseTracker.Application",
+        "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj",
+        "packagesPath": "C:\\Users\\91989\\.nuget\\packages\\",
+        "outputPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\91989\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
+                "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj",
+        "projectName": "ExpenseTracker.Domain",
+        "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj",
+        "packagesPath": "C:\\Users\\91989\\.nuget\\packages\\",
+        "outputPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\91989\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj",
+        "projectName": "ExpenseTracker.Infrastructure",
+        "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\91989\\.nuget\\packages\\",
+        "outputPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\91989\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj": {
+                "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj"
+              },
+              "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
+                "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\tests\\ExpenseTracker.UnitTests\\ExpenseTracker.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\tests\\ExpenseTracker.UnitTests\\ExpenseTracker.UnitTests.csproj",
+        "projectName": "ExpenseTracker.UnitTests",
+        "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\tests\\ExpenseTracker.UnitTests\\ExpenseTracker.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\91989\\.nuget\\packages\\",
+        "outputPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\tests\\ExpenseTracker.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\91989\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj": {
+                "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Application\\ExpenseTracker.Application.csproj"
+              },
+              "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj": {
+                "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj"
+              },
+              "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj": {
+                "projectPath": "C:\\study\\web-dev-projects\\Expense-tracker\\backend\\src\\ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

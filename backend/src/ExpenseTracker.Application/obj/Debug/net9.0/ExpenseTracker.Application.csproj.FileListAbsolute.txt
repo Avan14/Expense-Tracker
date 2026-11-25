@@ -1,0 +1,15 @@
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\bin\Debug\net9.0\ExpenseTracker.Application.deps.json
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\bin\Debug\net9.0\ExpenseTracker.Application.dll
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\bin\Debug\net9.0\ExpenseTracker.Application.pdb
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\bin\Debug\net9.0\ExpenseTracker.Domain.dll
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\bin\Debug\net9.0\ExpenseTracker.Domain.pdb
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\ExpenseTracker.Application.csproj.AssemblyReference.cache
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\ExpenseTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\ExpenseTracker.Application.AssemblyInfoInputs.cache
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\ExpenseTracker.Application.AssemblyInfo.cs
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\ExpenseTracker.Application.csproj.CoreCompileInputs.cache
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\ExpenseT.086D7044.Up2Date
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\ExpenseTracker.Application.dll
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\refint\ExpenseTracker.Application.dll
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\ExpenseTracker.Application.pdb
+C:\study\web-dev-projects\Expense-tracker\backend\src\ExpenseTracker.Application\obj\Debug\net9.0\ref\ExpenseTracker.Application.dll
